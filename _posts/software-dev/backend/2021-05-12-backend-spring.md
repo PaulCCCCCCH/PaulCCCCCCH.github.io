@@ -404,5 +404,5 @@ public class DemoApplication {
 同时，推荐对每个 `class` 以及下面的每个 `method` 都按照 `Javadoc` 的规范去书写注释，这样就可以自动生成文档。具体教程参考[这里](https://www.baeldung.com/javadoc)，或者直接搜索 `Javadoc`。  
 <br>
 
-另外，我们放出[阿里开发规范手册](../resources/best-practice.pdf)供大家参考。可以尽量去学习，然后制定自己认为最优秀的开发规范。  
+另外，我们放出**阿里开发规范手册**供大家参考。可以尽量去学习，然后制定自己认为最优秀的开发规范。  
 <br>
