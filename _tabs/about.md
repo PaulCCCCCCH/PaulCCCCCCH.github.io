@@ -1,8 +1,11 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
+Hey! Welcome to Chonghan's Website. Nice to meet you! 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+<img src="/assets/img/about-tab/casual.jpg" style="zoom: 25%;" />
+
+If you wonder where this website comes from, please visit [this post](/posts/prelude/). As I have more time now, I will try to add more content to the website. Stay tuned!

@@ -1,0 +1,7 @@
+site:
+  tabs:
+    - url: /projects
+      name: projects
+
+    - url: /test
+      name: test
