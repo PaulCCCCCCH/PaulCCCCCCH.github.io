@@ -22,4 +22,4 @@ To deploy: Push to the master branch.
 
 - To add a post, create a `README` file in folders in `_posts`
 - To change content of a tab page, go into `_tabs`
-- 
+- To add an image, put under `assets/img/<some folder>/<some image>` and reference in `.md` with `/assets/img/<some folder>/<some image>`
